@@ -50,7 +50,7 @@ The dataset contains passenger details from the Titanic ship, including:
 ## Files Included
 
 - `Titanic_EDA.ipynb` - Jupyter Notebook containing code and analysis
-- `Titanic_EDA_Report.pdf` - Project report
+- `Titanic Exploratory Data Analysis.pdf` - Project report
 
 ## Conclusion
 
